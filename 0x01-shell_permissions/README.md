@@ -1,1 +1,1 @@
-a script that prints the effective userid of the current user.
+2nd Shell project
