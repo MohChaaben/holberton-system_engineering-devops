@@ -1,1 +1,1 @@
- a script that changes the user ID to betty
+a script that prints the effective userid of the current user.
